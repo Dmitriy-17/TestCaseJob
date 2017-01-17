@@ -161,3 +161,6 @@ C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\o
 C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.csproj.GenerateResource.Cache
 C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.dll
 C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.pdb
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.Migrations.InitialCreate.resources
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.csproj.GenerateResource.Cache

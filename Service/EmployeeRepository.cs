@@ -43,7 +43,6 @@ namespace TestCaseJob.Service
             if(tempEmployee != null)
             {
                 tempEmployee.LeaderId = employee.LeaderId != 0 ? employee.LeaderId : null;
-                tempEmployee.IsLeader = employee.IsLeader;
                 tempEmployee.FirstName = employee.FirstName;
                 tempEmployee.Name = employee.Name;
                 tempEmployee.LastName = employee.LastName;
