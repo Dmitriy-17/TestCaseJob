@@ -1,0 +1,39 @@
+﻿@model TestCaseJob.Models.Account.LoginModel
+@{
+    ViewBag.Title = "Login";
+
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div id="login_form">
+
+        @Html.AntiForgeryToken()
+        <div id="login_form_content">
+            @Html.ValidationSummary(false)
+
+            <div id="login_reg_form_text">
+                @Html.DisplayNameFor(model => model.Login)
+            </div>
+
+            <div>
+                <input type="text" id="login_reg_form_editor" name="Login" />
+            </div>
+        </div>
+
+        <div id="login_form_content">
+            <div id="login_reg_form_text">
+                @Html.DisplayNameFor(model => model.Password)
+            </div>
+            <div>
+                <input type="password" id="login_reg_form_editor" name="Password" />
+            </div>
+        </div>
+        <div id="login_form_content">
+            <button id="login_reg_button_Send" type="submit">Войти</button>
+        </div>
+
+    </div>
+}
+

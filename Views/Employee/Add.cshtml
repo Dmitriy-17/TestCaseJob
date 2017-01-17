@@ -1,0 +1,42 @@
+﻿@model SelectList
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+@using (Html.BeginForm("Add", "Employee", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <table>
+        <tr>
+            <td>Имя</td>
+            <td><input type="text" name="Name" /></td>
+        </tr>
+        <tr>
+            <td>Фамилия</td>
+            <td><input type="text" name="FirstName" /></td>
+        </tr>
+        <tr>
+            <td>Отчество</td>
+            <td><input type="text" name="LastName" /></td>
+        </tr>
+        <tr>
+            <td>Возраст</td>
+            <td>
+                <input type="number" min="1" max="99" name="Age" />
+            </td>
+        </tr>    
+            <tr>
+                <td>Выбрать руководителя</td>
+                <td>
+                    @Html.DropDownList("LeaderId", Model as SelectList)
+                </td>
+            </tr>
+        <tr>
+            <td></td>
+            <td>
+                <button type="submit">Готово</button>
+            </td>
+        </tr>
+    </table>
+}
+

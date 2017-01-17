@@ -1,0 +1,33 @@
+﻿@model List<TestCaseJob.Models.Leader>
+@{
+    ViewBag.Title = "Employees";
+}
+
+<h2>Leaders</h2>
+<table>
+    <tr>
+        <td>
+            @Html.DisplayNameFor(model => Model[0].FirstName)
+        </td>
+        <td>
+            @Html.DisplayNameFor(model => Model[0].Name)
+        </td>
+        <td>
+            @Html.DisplayNameFor(model => Model[0].LastName)
+        </td>
+        <td>
+            @Html.DisplayNameFor(model => Model[0].Age)
+        </td>
+    </tr>
+    @foreach (var leader in Model)
+    {
+        <tr>
+            <td>@leader.FirstName</td>
+            <td>@leader.Name</td>
+            <td>@leader.LastName</td>
+            <td>@leader.Age</td>
+            <td>@Html.ActionLink("Удалить", "DeleteLeader", "Employee", new { id = leader.Id }, null)</td>
+        </tr>
+    }
+</table>
+

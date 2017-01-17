@@ -1,0 +1,163 @@
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ApplicationInsights.config
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\csc.exe
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\vbc.exe
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\TestCaseJob.dll.config
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\TestCaseJob.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\TestCaseJob.pdb
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Antlr3.Runtime.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.Web.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Newtonsoft.Json.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Helpers.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Mvc.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Optimization.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Razor.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\WebGrease.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.Web.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Helpers.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Mvc.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Optimization.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.Razor.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Antlr3.Runtime.pdb
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Newtonsoft.Json.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.pdb
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\EntityFramework.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Owin.dll
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\EntityFramework.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\EntityFramework.SqlServer.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dmitriy\Documents\GitHub\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ApplicationInsights.config
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\csc.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\vbc.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\TestCaseJob.dll.config
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\TestCaseJob.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\TestCaseJob.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Antlr3.Runtime.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\EntityFramework.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.Web.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Newtonsoft.Json.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Owin.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Helpers.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Mvc.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Optimization.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Razor.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\WebGrease.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\EntityFramework.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\EntityFramework.SqlServer.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.Web.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Helpers.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Mvc.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Optimization.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.Razor.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Antlr3.Runtime.pdb
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\Newtonsoft.Json.xml
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.Migrations.InitialCreate.resources
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.csproj.GenerateResource.Cache
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.dll
+C:\Users\Dmitriy\Documents\Visual Studio 2015\Projects\TestCaseJob\TestCaseJob\obj\Debug\TestCaseJob.pdb

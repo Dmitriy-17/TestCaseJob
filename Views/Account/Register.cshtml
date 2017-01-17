@@ -1,0 +1,65 @@
+﻿@model TestCaseJob.Models.Account.RegisterModel
+
+@{
+    ViewBag.Title = "Register";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div id="login_form">
+      
+
+        <div id="login_reg_form_text">
+            @Html.DisplayNameFor(model => model.Email)
+            <div>
+                <input type="email" id="login_reg_form_editor" name="Email" />
+                @Html.ValidationMessageFor(x => x.Email)
+            </div>
+        </div>
+        <div id="login_reg_form_text">
+            @Html.DisplayNameFor(model => model.Login)
+            <div>
+                <input type="text" id="login_reg_form_editor" name="Login" />
+                @Html.ValidationMessageFor(x => x.Login)
+
+            </div>
+        </div>
+        <div id="login_reg_form_text">
+            @Html.DisplayNameFor(model => model.FirstName)
+            <div>
+                <input type="text" id="login_reg_form_editor" name="FirstName" />
+                @Html.ValidationMessageFor(x => x.FirstName)
+            </div>
+        </div>
+
+        <div id="login_reg_form_text">
+            @Html.DisplayNameFor(model => model.LastName)
+            <div>
+                <input type="text" id="login_reg_form_editor" name="LastName" />
+                @Html.ValidationMessageFor(x => x.LastName)
+            </div>
+        </div>
+
+        <div id="login_reg_form_text">
+            @Html.DisplayNameFor(model => model.Password)
+            <div>
+                <input type="password" id="login_reg_form_editor" name="Password" />
+                @Html.ValidationMessageFor(x => x.Password)
+            </div>
+        </div>
+
+        <div id="login_reg_form_text">
+            @Html.DisplayNameFor(model => model.PasswordConfirm)
+            <div>
+                <input type="password" id="login_reg_form_editor" name="PasswordConfirm" />
+                @Html.ValidationMessageFor(x => x.PasswordConfirm)
+            </div>
+        </div>
+
+        <div id="login_form_content">
+            <input type="submit" id="login_reg_button_Send" value="Зарегистрироваться" />
+        </div>
+    </div>
+}

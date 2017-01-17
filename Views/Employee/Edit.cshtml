@@ -1,0 +1,47 @@
+﻿@model TestCaseJob.Models.Employee
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+@using (Html.BeginForm("Edit", "Employee", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <table>
+        <tr>
+            <td>Имя</td>
+            <td><input type="text" name="Name" value="@Model.Name"/></td>
+        </tr>
+        <tr>
+            <td>Фамилия</td>
+            <td><input type="text" name="FirstName" value="@Model.FirstName"/></td>
+        </tr>
+        <tr>
+            <td>Отчество</td>
+            <td><input type="text" name="LastName" value="@Model.LastName" /></td>
+        </tr>
+        <tr>
+            <td>Возраст</td>
+            <td>
+                <input type="number" min="1" max="99" name="Age" value="@Model.Age"/>
+            </td>
+        </tr>
+        <tr>
+           
+        </tr>
+            <tr>
+                <td>Выбрать руководителя</td>
+                <td>
+                    @Html.DropDownList("LeaderId", ViewBag.Leaders as SelectList,  Model.Leader != null ? Model.Leader.FirstName : "Не выбрано")
+                </td>
+            </tr>
+        <tr>
+            <td></td>
+            <td>
+                <button type="submit">Готово</button>
+            </td>
+        </tr>
+    </table>
+}
+
+
+

@@ -1,0 +1,56 @@
+﻿body {
+    background-color: #E2E2E2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#main_container {
+    margin-left: 20%;
+    width: 55%;
+    margin-top: 10px;
+}
+#login_form {
+    border: 2px solid #075DAC;
+    border-top: 60px solid #075DAC;
+    border-radius: 5px 5px;
+    margin-left: 25%;
+    margin-top: 5%;
+    padding: 5px;
+    text-align: left;
+    width: 400px;
+}
+
+#login_form_content {
+    margin-top: 5%;
+    margin-left: 23%;
+}
+
+#login_reg_form_editor {
+    border: 1px;
+    margin-top: 5px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Tahoma;
+    outline-color: #079DD0;
+}
+
+#login_reg_form_text {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0B5067;
+}
+
+#login_reg_button_Send {
+    background-color: #079DD0;
+    width: 200px;
+    border: 1px solid #394D63;
+    border-radius: 5px;
+    color: #D9EEF7;
+    cursor: pointer;
+    font: 14px/100% Arial,Helvetica,sans-serif;
+    outline: medium none;
+    padding: 0.5em 2em 0.55em;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 50px;
+}
