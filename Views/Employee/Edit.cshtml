@@ -31,7 +31,7 @@
             <tr>
                 <td>Выбрать руководителя</td>
                 <td>
-                    @Html.DropDownList("LeaderId", ViewBag.Leaders as SelectList,  Model.Leader != null ? Model.Leader.FirstName : "Не выбрано")
+                    @Html.DropDownList("LeaderId", ViewBag.Leaders as SelectList,  Model?.Leader?.FirstName??"Не выбрано")
                 </td>
             </tr>
         <tr>

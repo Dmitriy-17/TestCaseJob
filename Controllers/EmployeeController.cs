@@ -15,7 +15,7 @@ namespace TestCaseJob.Controllers
         public ActionResult Add()
         {
             var leaders = _unitOfWork.Employees.GetAll().ToList();
-            leaders.Insert(0, new Employee { Name = "Не выбран", Id = 0 });
+            leaders.Insert(0, new Employee { FirstName = "Не выбран", Id = 0 });
             SelectList selectedListLeaders = new SelectList(leaders, "Id", "FirstName");
 
             return View(selectedListLeaders);
@@ -66,7 +66,7 @@ namespace TestCaseJob.Controllers
         public ActionResult Edit(int id)
         {
             var leaders = _unitOfWork.Employees.GetAll().ToList();
-            leaders.Insert(0, new Employee { Name = "Не выбран", Id = 0 });
+            leaders.Insert(0, new Employee { FirstName = "Не выбран", Id = 0 });
             SelectList selectedListLeaders = new SelectList(leaders, "Id", "FirstName");
 
             var employee = _unitOfWork.Employees.Get(id);
