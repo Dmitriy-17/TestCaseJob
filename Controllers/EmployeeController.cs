@@ -65,16 +65,20 @@ namespace TestCaseJob.Controllers
         [HttpGet]
         public ActionResult Edit(int id)
         {
-            var leaders = _unitOfWork.Employees.GetAll().ToList();
-            leaders.Insert(0, new Employee { FirstName = "Не выбран", Id = 0 });
-            SelectList selectedListLeaders = new SelectList(leaders, "Id", "FirstName");
-
+            var leaders = _unitOfWork.Employees.GetAll().ToList();     
             var employee = _unitOfWork.Employees.Get(id);
             if(employee != null && employee.Leader == null)
             {
                 employee.LeaderId = 0;
-            }
+            }     
+            leaders.Insert(0, new Employee { FirstName = "Не выбран", Id = 0 });
+            var selectLeader = leaders.Find(x => x.Id == employee.Id);
+            leaders.Remove(selectLeader);
+            leaders.Insert(0, selectLeader);
+            SelectList selectedListLeaders = new SelectList(leaders, "Id", "FirstName");
+           
             ViewBag.Leaders = selectedListLeaders;
+            
             return View(employee);
         }
 

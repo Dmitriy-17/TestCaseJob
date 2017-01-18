@@ -3,6 +3,7 @@
     ViewBag.Title = "Edit";
 }
 
+
 <h2>Edit</h2>
 @using (Html.BeginForm("Edit", "Employee", FormMethod.Post, new { enctype = "multipart/form-data" }))
 {
@@ -31,7 +32,7 @@
             <tr>
                 <td>Выбрать руководителя</td>
                 <td>
-                    @Html.DropDownList("LeaderId", ViewBag.Leaders as SelectList,  Model?.Leader?.FirstName??"Не выбрано")
+                    @Html.DropDownList("LeaderId", ViewBag.Leaders as SelectList)
                 </td>
             </tr>
         <tr>
